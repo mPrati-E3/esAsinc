@@ -1,0 +1,23 @@
+{
+  "name": "esasinc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mPrati-E3/esAsinc.git"
+  },
+  "author": "mPrati",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mPrati-E3/esAsinc/issues"
+  },
+  "homepage": "https://github.com/mPrati-E3/esAsinc#readme",
+  "dependencies": {
+    "dayjs": "^1.10.4",
+    "sqlite3": "^5.0.2"
+  }
+}
